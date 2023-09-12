@@ -1,0 +1,5 @@
+fastapi==0.103.0
+fastapi_amis_admin==0.6.4
+fastapi_scheduler==0.0.13
+aerich==0.7.2
+tortoise-orm==0.20.0
